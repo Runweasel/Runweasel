@@ -18,8 +18,8 @@ I'm an enthusiastic Automation Technology student with a passion for programming
     Telegram Bot: Developed an interactive bot providing real-time trolley timings.
     To-Do-Tree-App (Flutter Project): A unique task management app with hierarchical task organization. It's in active development, with features like hierarchical task management, quick add/edit, intuitive UI, detailed task view, and more. My aim is to publish it on the Google App Store.
     Various Python and C++ Applications: Engaged in personal projects, enhancing my Python and C++ skills.
-    Many course projects with C++, Python, Java, ...
     Node-RED and Qt Creator Projects: Utilized in coursework and personal projects.
+    Many university course projects with C++, Python, Java, ...
 
 🎯 Current Focus:
 
