@@ -4,7 +4,7 @@ I'm an enthusiastic Automation Technology student with a passion for programming
 
 🌐 Connect with me:
 
-    Email: lassi.alappalainen@hotmail.com
+    Email: lassi.lappalainen@tuni.fi
 
 💻 Technical Skills:
 
